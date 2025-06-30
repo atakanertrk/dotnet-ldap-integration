@@ -1,0 +1,7 @@
+﻿1)
+EnvironmentVariableConstants contains required evnrionment variable keys which must be set 
+on target system before deployment in order to function properly.
+
+2)
+web.config ASPNETCORE_ENVIRONMENT must set correct and appsettings.{environment}.json must be present.
+
